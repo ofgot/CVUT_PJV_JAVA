@@ -1,1 +1,1 @@
-# CVUT_PJV
+# CVUT_PJV_JAVA
