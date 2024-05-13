@@ -1,5 +1,5 @@
 # CVUT_PJV_JAVA
-Java exercises from university. 
+Java exercises. 
 Contain:
 - Calculator
 - Brute force attack (recursion)
